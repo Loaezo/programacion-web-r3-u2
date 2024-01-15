@@ -1,7 +1,7 @@
-# programacion-web-r3-u2
+# programacion-web-r5-u3
 Ejercicio de HTML y CSS para un formulario de registro de alumnos.
 
-ESte es un formulario construido en HTML que permite registrar un nuevo usuario con los siguientes campos:
+Este es un formulario construido en HTML que permite registrar un nuevo usuario con los siguientes campos:
 
 - Nombre
 - Apellido
@@ -11,4 +11,4 @@ ESte es un formulario construido en HTML que permite registrar un nuevo usuario 
 
 Todos los campos son requeridos.
 
-Para correr el proyecto, simplemente hay que clonar el repositorio y abrir el archivo `index.html`. La creación del archivo manda la información mediante  con un método `POST`.
+Para correr el proyecto, simplemente hay que clonar el repositorio y abrir el archivo `index.html`. El botón de `Registrar` manda la información mediante con un método `POST` y redirige al usuario a una tarjeta en la cual se muestran los datos ingresados.

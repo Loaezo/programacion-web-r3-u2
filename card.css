@@ -17,15 +17,23 @@ body {
     text-align: center;
 }
 
+.alumno-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.alumno-image {
+    max-width: 180px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
 h2 {
     color: #4CAF50;
 }
 
-
-.card-container-data {
-    background-color: #3498db;
-    color: #fff;
-    padding: 5px;
-    border-radius: 8px;
-    margin-top: 10px;
+.alumno-data {
+    flex-grow: 1;
 }
